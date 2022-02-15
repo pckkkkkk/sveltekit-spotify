@@ -1,3 +1,11 @@
+<p align="center">
+  <img width="50" height="50" src="https://i.ibb.co/VMn6xkQ/spotify.jpg">
+</p>
+
+Simple starter of [Spotify's oauth2](https://developer.spotify.com/documentation/general/guides/authorization/code-flow/) authorization flow with SvelteKit.
+😃
+--------
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
