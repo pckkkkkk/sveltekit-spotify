@@ -4,7 +4,9 @@
 
 Simple starter of [Spotify's oauth2](https://developer.spotify.com/documentation/general/guides/authorization/code-flow/) authorization flow with SvelteKit.
 😃
+
 --------
+
 
 # create-svelte
 
